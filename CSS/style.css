@@ -135,7 +135,6 @@ body {
   }
   
   /* portfolio page */
-  
 
   .work {
     position: relative;     
@@ -157,6 +156,7 @@ body {
     border: 0 none;
     display: flex;
     justify-content: center;
+    margin: 0 auto;
     
   }
   
